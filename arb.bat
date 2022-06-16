@@ -1,0 +1,1 @@
+rimraf node_modules/@atmlib && npm i && ng serve -o

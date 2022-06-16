@@ -1,0 +1,1 @@
+cloud_sql_proxy -instances=atm-preprod-0f90:europe-west4:pg-atomyze-preprod-213-vdf=tcp:5432

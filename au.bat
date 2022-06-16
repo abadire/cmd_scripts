@@ -1,0 +1,1 @@
+npm i @atmlib/proto@latest --legacy-peer-deps && ng serve -o

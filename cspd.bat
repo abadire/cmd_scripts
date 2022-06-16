@@ -1,0 +1,1 @@
+cloud_sql_proxy -instances=atm-develop-3365:europe-west4:pg-atomyze-develop-217-dev=tcp:5432

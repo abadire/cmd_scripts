@@ -1,0 +1,1 @@
+rimraf node_modules && npm i --legacy-peer-deps && ng serve -o
